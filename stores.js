@@ -1,4 +1,4 @@
-Const StoreList [
+const storeList = [
       {
         "type": "Feature",
         "geometry": {
