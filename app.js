@@ -155,7 +155,7 @@ L.control.coordinates({
 
 // Nigerian 36 States Shapefile
 
-var nig_36_states = L.geoJSON(NIG_36_STATES).addTo(myMap);
+var NIG_36_STATES = L.geoJSON(nig_36_states).addTo(myMap);
 
 
 
