@@ -153,6 +153,10 @@ L.control.coordinates({
 	customLabelFcn: function(latLonObj, opts) { "Geohash: " + encodeGeoHash(latLonObj.lat, latLonObj.lng)} //optional default none
 }).addTo(myMap);
 
+// Nigerian 36 States Shapefile
+
+var nig_36_states = L.geoJSON(NIG_36_STATES).addTo(myMap);
+
 
 
 
