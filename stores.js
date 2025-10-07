@@ -198,7 +198,7 @@ const storeList = [
           "coordinates": [7.5238266183033105, 6.441043121231609]
         },
         "properties": {
-          "name": "17. ESUT",
+          "name": "44. ESUT",
           "address": "Enugu State University of Science & Technology, Agbani: +2348113693800, +2348113693801, +2348113693802, +2348113693805, dvc@esut.edu.ng, vice-chancellor@esut.edu.ng, registrar@esut.edu.ng, director.ictc@esut.edu.ng, webmaster@esut.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -210,7 +210,7 @@ const storeList = [
           "coordinates": [7.040440926172737, 5.50804767503571]
         },
         "properties": {
-          "name": "18. IMSU",
+          "name": "43. IMSU",
           "address": "Imo State University Owerri, Imo State: vc@imsu.edu.ng, registrar@imsu.edu.ng, webservices@imsu.edu.ng, info@imsu.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -222,7 +222,7 @@ const storeList = [
           "coordinates": [3.3294727895500493, 7.104818867704854]
         },
         "properties": {
-          "name": "19. MAUSTECH",
+          "name": "42. MAUSTECH",
           "address": "Moshood Abiola University of Science and Technology Abeokuta, Ogun State",
           "phone": "+2348105596815"          
         }
@@ -234,7 +234,7 @@ const storeList = [
           "coordinates": [6.980317197335797, 4.797553530239241]
         },
         "properties": {
-          "name": "20. RSUST",
+          "name": "41. RSUST",
           "address": "Rivers State University of Science & Technology, Port Harcourt: +2348165768576, +2349062033338, +2349062033339, info@ust.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -246,7 +246,7 @@ const storeList = [
           "coordinates": [7.393944114128105, 5.8232481258429205]
         },
         "properties": {
-          "name": "21. ABSU",
+          "name": "40. ABSU",
           "address": "Abia State University, Uturu: +2347066166857, registry@abiastateuniversity.edu.ng, pro@abiastateuniversity.edu.ng, support@abiastateuniversity.edu.ng, ics@abiastateuniversity.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -258,7 +258,7 @@ const storeList = [
           "coordinates": [7.405961339672111, 9.007432351904251]
         },
         "properties": {
-          "name": "22. BU",
+          "name": "39. BU",
           "address": "Baze University, Abuja, FCT: +234 8133769658, inquiries@bazeuniversity.edu.ng, admissions@bazeuniversity.edu.ng, pgsadmissions@bazeuniversity.edu.ng, bursar@bazeuniversity.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -270,7 +270,7 @@ const storeList = [
           "coordinates": [3.1711009973380673, 6.686364365092122]
         },
         "properties": {
-          "name": "23. BUT",
+          "name": "38. BUT",
           "address": "Bells University of Technology Ota, Ogun State: +2348139327665, info@bellsuniversity.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -282,7 +282,7 @@ const storeList = [
           "coordinates": [4.188901824321756, 7.623874276502561]
         },
         "properties": {
-          "name": "24. BUI",
+          "name": "37. BUI",
           "address": "Bowen University Iwo, Osun State: +2347000026936, +2348035371251, +2348055113625, +2348035509273, +2348034920436, +2348034161539, info@bowen.edu.ng, examsandrecords@bowen.edu.ng, admissions@bowen.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -294,7 +294,7 @@ const storeList = [
           "coordinates": [7.418884697336632, 5.830982228944719]
         },
         "properties": {
-          "name": "25. GUU",
+          "name": "36. GUU",
           "address": "Gregory University Uturu, Abia State: +234 8063948652, +2348032720618, +2348037776701, +2347060968996, +2348032720618, +2348037333920, +2348038711821, info@gregoryuniversityuturu.edu.ng, ict@gregoryuniversityuturu.edu.ng, registrar@gregoryuniversityuturu.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -306,7 +306,7 @@ const storeList = [
           "coordinates": [6.274814116360655, 7.067543285284125]
         },
         "properties": {
-          "name": "26. AUCHIPOLY",
+          "name": "35. AUCHIPOLY",
           "address": "Auchi Polytechnic Auchi, Edo State: +2348035867951, +2348069035625, support@auchipoly.edu.ng, rector@auchipoly.edu.ng, registrar@auchipoly.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -318,7 +318,7 @@ const storeList = [
           "coordinates": [7.714731939663135, 5.1327357842429295]
         },
         "properties": {
-          "name": "27. UKANAPOLY",
+          "name": "34. UKANAPOLY",
           "address": "Federal Polytechnic Ukana, Akwa-Ibom State : +2348022203372, +2347018381355, +2347018381355, rector@fedpolyukana.edu.ng, registrar@fedpolyukana.edu.ng, info@fedpolyukana.edu.ng, fedpolyukana@yahoo.com",
           "phone": "+2348105596815"          
         }
@@ -330,7 +330,7 @@ const storeList = [
           "coordinates": [5.3027765795680795, 7.599272322717393]
         },
         "properties": {
-          "name": "28. FEDPOLYADO",
+          "name": "33. FEDPOLYADO",
           "address": "Federal Polytechnic Ado-Ekiti, Ekiti State: +2347088335676, contactus@fedpolyado.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -342,7 +342,7 @@ const storeList = [
           "coordinates": [9.771920468514145, 10.260015667434851]
         },
         "properties": {
-          "name": "29. BAUCHIPOLY",
+          "name": "32. BAUCHIPOLY",
           "address": "Federal Polytechnic Bauchi, Bauchi State: +2347087203074, +2347087203074, info@fptb.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -354,7 +354,7 @@ const storeList = [
           "coordinates": [4.425216468504241, 7.735150562137783]
         },
         "properties": {
-          "name": "30. EDEPOLY",
+          "name": "31. EDEPOLY",
           "address": "Federal Polytechnic Ede, Osun State: +2348104895579, pro@federalpolyede.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -366,7 +366,7 @@ const storeList = [
           "coordinates": [6.791258353156945, 7.142836134228294]
         },
         "properties": {
-          "name": "31. IDAHPOLY",
+          "name": "30. IDAHPOLY",
           "address": "Federal Polytechnic Idah, Kogi State: +2348130193730, +23458800118, +23458800133, +2347036188186, registrar@fepoda.edu.ng, helpdesk@fepoda.edu.ng, fedpolyidah@yahoo.com, fedpolyidah@gmail.com",
           "phone": "+2348105596815"          
         }
@@ -378,7 +378,7 @@ const storeList = [
           "coordinates": [3.026400768502095, 6.89635947297312]
         },
         "properties": {
-          "name": "32. ILAROPOLY",
+          "name": "29. ILAROPOLY",
           "address": "Federal Polytechnic Ilaro, Ogun State: +234812345678900, info@federalpolyilaro.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -390,7 +390,7 @@ const storeList = [
           "coordinates": [13.29009881269638, 10.279401551889563]
         },
         "properties": {
-          "name": "33. MUBIPOLY",
+          "name": "28. MUBIPOLY",
           "address": "Federal Polytechnic Mubi, Adamawa State: +2347025157214, +2349093050548, +2348031540350, +2348054767077, registrar@federalpolytechnicmubi.edu.ng, fedpolymubi@yahoo.com",
           "phone": "+2348105596815"          
         }
@@ -402,7 +402,7 @@ const storeList = [
           "coordinates": [7.074937866754694, 5.42085788901419]
         },
         "properties": {
-          "name": "34. NEKEDEPOLY",
+          "name": "27. NEKEDEPOLY",
           "address": "Federal Polytechnic Nekede, Imo State: +2348118691549, registrar@fpno.edu.ng, vasogwa@fpno.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -414,7 +414,7 @@ const storeList = [
           "coordinates": [4.708422325568698, 8.151202126855136]
         },
         "properties": {
-          "name": "35. OFFAPOLY",
+          "name": "26. OFFAPOLY",
           "address": "Federal Polytechnic Offa, Kwara State: +2348060361483, +2348069472900, info@achievers.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -426,7 +426,7 @@ const storeList = [
           "coordinates": [7.1079434126827135, 6.051509883821764]
         },
         "properties": {
-          "name": "36. OKOPOLY",
+          "name": "25. OKOPOLY",
           "address": "Federal Polytechnic Oko, Anambra State : +2348184444441, +2348139833300, +1234567890, info@yourdomain.com, publicrelations@federalpolyoko.edu.ng, rector@federalpolyoko.edu.ng, registrar@federalpolyoko.edu.ng, support@tenece.com",
           "phone": "+2348105596815"          
         }
@@ -438,7 +438,7 @@ const storeList = [
           "coordinates": [7.424414968515488, 10.527222650610273]
         },
         "properties": {
-          "name": "37. KADPOLY",
+          "name": "24. KADPOLY",
           "address": "Kaduna Polytechnic, Kaduna State: +2348180599505, info@kadunapolytecnic.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -450,7 +450,7 @@ const storeList = [
           "coordinates": [4.222965753181397, 12.464492210415106]
         },
         "properties": {
-          "name": "38. WUFPBK",
+          "name": "23. WUFPBK",
           "address": "Waziri Umaru Federal Polytechnic Birnin-Kebbi, Kebbi State: +2348069620912, +2348060675630, +2348144295841, +2348140407338, +2347087203074, adewaleadebayo68@yahoo.com, adewaleadebayo22@gmail.com, abumaiakwai@yahoo.com, nayauri94@gmail.com atikumuhd@gmail.com, registrar@wufpbk.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -462,7 +462,7 @@ const storeList = [
           "coordinates": [6.007808626061906, 9.03949424681666]
         },
         "properties": {
-          "name": "39. BIDAPOLY",
+          "name": "22. BIDAPOLY",
           "address": "Federal Polytechnic Bida, Niger State: +2348051774016, +2348148045558, registrar@fedpolybida.edu.ng, info@fedpolybida.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -474,7 +474,7 @@ const storeList = [
           "coordinates": [7.717140710834032, 8.565893422893467]
         },
         "properties": {
-          "name": "40. FEDPOLYNASARAWA",
+          "name": "21. FEDPOLYNASARAWA",
           "address": "Federal Polytechnic, Nasarawa State: +2348108347744, +2348160716295, +2348034235536, +2347035936948, registrar@fedpolynasarawa.edu.ng, info@fedpolynas.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -486,7 +486,7 @@ const storeList = [
           "coordinates": [6.977761847284144, 4.861186640034989]
         },
         "properties": {
-          "name": "41. PORTHARCOURTPOLY",
+          "name": "20. PORTHARCOURTPOLY",
           "address": "Captain Elechi Amadi Port Harcourt Polytechnic, Rivers State: +2349060362075, +2349060339854, +2348162558982, info@portharcourtpoly.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -498,7 +498,7 @@ const storeList = [
           "coordinates": [7.362462450462038, 5.127354881478371]
         },
         "properties": {
-          "name": "42. ABSP",
+          "name": "19. ABSP",
           "address": "Abia State Polytechnic, Aba: +2348022225678, +2348064933595, +2347088391544, +2348164958768, +2347035362770, info@abiastatepolytechnic.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -510,7 +510,7 @@ const storeList = [
           "coordinates": [12.449842062514172, 9.273149894295596]
         },
         "properties": {
-          "name": "43. ADSP",
+          "name": "18. ADSP",
           "address": "Adamawa State Polytechnic, Yola: +2347030565588, +2348066030046, admissions@adamawastatepoly.edu.ng, registrar@adamawapoly.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -522,7 +522,7 @@ const storeList = [
           "coordinates": [7.009615324317188, 4.81775818793247]
         },
         "properties": {
-          "name": "44. AKIBSP",
+          "name": "17. AKIBSP",
           "address": "Akwa-Ibom State Polytechnic, Ikot-Osurua: +2348139833300, +2348060066836, +234808769903, +2347086691199, info@akwaibompoly.edu.ng, moses.umobong@akwaibompoly.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -534,7 +534,7 @@ const storeList = [
           "coordinates": [7.803845973054302, 7.156564882567909]
         },
         "properties": {
-          "name": "45. BSU",
+          "name": "16. BSU",
           "address": "Benue State Polytechnic, Ugboloko: +23480123456789, +2347083768871, support@benpolyonline.edu.ng, registrar@benpolyonline.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -546,7 +546,7 @@ const storeList = [
           "coordinates": [6.742301067959369, 7.843035674190203]
         },
         "properties": {
-          "name": "46. KGSP",
+          "name": "15. KGSP",
           "address": "Kogi State Polytechnic, Lokoja: +2347043774996, +2347051593394, +2347043774996, +23458220047, +23458220789, registrar@kogistatepoly.edu.ng, info@kogistatepolytechnic.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -558,7 +558,7 @@ const storeList = [
           "coordinates": [4.6343096390871645, 8.543488130068216]
         },
         "properties": {
-          "name": "47. KWSP",
+          "name": "14. KWSP",
           "address": "Kwara State Polytechnic, Ilorin: +2348000000000, info@kwarastatepolytechnic.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -570,7 +570,7 @@ const storeList = [
           "coordinates": [7.36776136664428, 4.6736185214101935]
         },
         "properties": {
-          "name": "48. KENPOLY",
+          "name": "13. KENPOLY",
           "address": "Ken Saro-Wiwa Polytechnic Bori, Rivers State: +234804870131, +234804870108, +2348032325198, info@kenpoly.edu.ng, kalagbor.ihesinachi@kenpoly.edu.ng, ksinachi@yahoo.com",
           "phone": "+2348105596815"          
         }
@@ -582,7 +582,7 @@ const storeList = [
           "coordinates": [5.5582819467259625, 7.220806909212892]
         },
         "properties": {
-          "name": "49. RUGIPO",
+          "name": "12. RUGIPO",
           "address": "Rufus Giwa Polytechnic Owo, Ondo State:+2347068352909, +2348035950461, +2347030076289, info@rugipo.edu.ng, registrar@rugipo.edu.ng, registrar@rugipo.edu.ng, info@domain.com",
           "phone": "+2348105596815"          
         }
@@ -594,7 +594,7 @@ const storeList = [
           "coordinates": [3.8931674024067795, 7.432600043067659]
         },
         "properties": {
-          "name": "50. IBADANPOLY",
+          "name": "11. IBADANPOLY",
           "address": "The Polytechnic Ibadan, Oyo State:+2348051236687, feng@polyibadan.edu.ng, registrar@polyibadan.edu.ng, support@polyibadan.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -606,7 +606,7 @@ const storeList = [
           "coordinates": [8.506468475462647, 11.983423773872836]
         },
         "properties": {
-          "name": "51. KANOPOLY",
+          "name": "10. KANOPOLY",
           "address": "Kano State Polytechnic, Kano: +2348033558451, +2349094544991, +2348030888118, +2349085017175, +2348037014642, +2348099474951, webhost@kanopoly.edu.ng, admin@kanopoly.edu.ng, info@kanopoly.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -618,7 +618,7 @@ const storeList = [
           "coordinates": [13.133328939686626, 11.837230810802245]
         },
         "properties": {
-          "name": "52. RAMATPOLY",
+          "name": "9. RAMATPOLY",
           "address": "Ramat Polytechnic Maiduguri, Borno State: +2348026072280, registrar@ramatpoly.edu.ng, info@ramatpoly.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -630,7 +630,7 @@ const storeList = [
           "coordinates": [3.674454698936167, 7.010515944399465]
         },
         "properties": {
-          "name": "53. GATEWAY POLY",
+          "name": "8. GATEWAY POLY",
           "address": "Gateway Polytechnic Ota, Ogun State: +234 806 793 7140, info@gaposa.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -642,7 +642,7 @@ const storeList = [
           "coordinates": [5.390951002948838, 6.73510126591565]
         },
         "properties": {
-          "name": "54. EDSITM",
+          "name": "7. EDSITM",
           "address": "Edo State Institute of Technology & Management, Usen: +2348036984601, +2348136626864, info@edopoly.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -654,7 +654,7 @@ const storeList = [
           "coordinates": [8.81141199734806, 9.73181105647023]
         },
         "properties": {
-          "name": "55. FEDCOLART J",
+          "name": "6. FEDCOLART J",
           "address": "Federal College of Land Resources & Technology Kuru, Jos, Plateau State:+2348035884143, +2348162276334",
           "phone": "+2348105596815"          
         }
@@ -666,7 +666,7 @@ const storeList = [
           "coordinates": [7.019304755009242, 5.531643073492117]
         },
         "properties": {
-          "name": "56. FEDCOLART O",
+          "name": "5. FEDCOLART O",
           "address": "Federal College of Land Resources & Technology Owerri, Imo State: +2348033058892, youremail@email.com",
           "phone": "+2348105596815"          
         }
@@ -678,7 +678,7 @@ const storeList = [
           "coordinates": [3.372558998709211, 6.519167190129313]
         },
         "properties": {
-          "name": "57. YABATECH",
+          "name": "4. YABATECH",
           "address": "Yaba College of Technology, Lagos State: +2347037431055, oluwole.oladiboye@yabatech.edu.ng, registrar@yabatech.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -690,7 +690,7 @@ const storeList = [
           "coordinates": [4.940575355014366, 8.01860041672108]
         },
         "properties": {
-          "name": "58. OSCOE",
+          "name": "3. OSCOE",
           "address": "Osun State College of Technology, Esa-Oke, Osun State: +2348174855410, +2348035588210, +2348148110380, +2348115048431, registrar@oscotechesaoke.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -702,7 +702,7 @@ const storeList = [
           "coordinates": [3.9489238332595886, 7.844282161981394]
         },
         "properties": {
-          "name": "59. F S S",
+          "name": "2. F S S",
           "address": "Federal School of Surveying Oyo, Oyo State: +2348138261833, +2348033955301, felixiyiola@fss-oyo.edu.ng, felixiyiola@yahoo.com",
           "phone": "+2348105596815"          
         }
@@ -714,7 +714,7 @@ const storeList = [
           "coordinates": [8.529964483849998, 7.7644065344125535]
         },
         "properties": {
-          "name": "60. NACESTMK",
+          "name": "1. NACESTMK",
           "address": "Nigerian Army College of Environmental Science & Technology Markurdi, Benue State: +2348000000000, +2348124624719, info@nacest.edu.ng, info@nacestmk.edu.ng",
           "phone": "+2348105596815"          
         }
