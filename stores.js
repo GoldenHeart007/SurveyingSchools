@@ -15,6 +15,42 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [9.79452848217292, 10.280462235322235]
+        },
+        "properties": {
+          "name": "60. ATBU",
+          "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [9.79452848217292, 10.280462235322235]
+        },
+        "properties": {
+          "name": "60. ATBU",
+          "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [9.79452848217292, 10.280462235322235]
+        },
+        "properties": {
+          "name": "60. ATBU",
+          "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
+          "phone": "+2348105596815"          
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [7.654606767148111, 11.15119604574798]
         },
         "properties": {
