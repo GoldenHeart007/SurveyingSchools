@@ -3,7 +3,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.8732694, 7.3266059]
+          "coordinates": [3.87586, 7.32684]
         },
         "properties": {
           "name": "63. LCU",
@@ -15,7 +15,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.9453784, 7.8496193]
+          "coordinates": [3.94795, 7.84963]
         },
         "properties": {
           "name": "62. ACU",
