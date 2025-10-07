@@ -138,7 +138,7 @@ const storeList = [
           "coordinates": [3.3900201619907095, 6.516113602370875]
         },
         "properties": {
-          "name": 49. UNILAG",
+          "name": "49. UNILAG",
           "address": "University of Lagos Akoka, Lagos State: +23412802439, ahamid-mosaku@unilag.edu.ng, oabiodun@unilag.edu.ng, communicationunit@unilag.edu.ng",
           "phone": "+2348105596815"          
         }
