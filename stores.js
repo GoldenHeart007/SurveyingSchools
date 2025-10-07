@@ -27,7 +27,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.1995309, 6.4665938]
+          "coordinates": [6.4665938, 3.1995309]
         },
         "properties": {
           "name": "61. LASU",
