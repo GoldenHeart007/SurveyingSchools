@@ -3,7 +3,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [9.79452848217292, 10.280462235322235]
+          "coordinates": [3.8732694, 7.3266059]
         },
         "properties": {
           "name": "63. LCU",
@@ -15,7 +15,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [9.79452848217292, 10.280462235322235]
+          "coordinates": [3.9453784, 7.8496193]
         },
         "properties": {
           "name": "62. ACU",
@@ -27,7 +27,7 @@ const storeList = [
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [9.79452848217292, 10.280462235322235]
+          "coordinates": [3.1995309, 6.4665938]
         },
         "properties": {
           "name": "61. LASU",
