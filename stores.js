@@ -6,7 +6,7 @@ const storeList = [
           "coordinates": [9.79452848217292, 10.280462235322235]
         },
         "properties": {
-          "name": "1. ATBU",
+          "name": "60. ATBU",
           "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
           "phone": "+2348105596815"          
         }
@@ -18,7 +18,7 @@ const storeList = [
           "coordinates": [7.654606767148111, 11.15119604574798]
         },
         "properties": {
-          "name": "2. ABU",
+          "name": "59. ABU",
           "address": "Ahmadu Bello University Zaria, Kaduna State: +23462293421",
           "phone": "+2348105596815"          
         }
@@ -30,7 +30,7 @@ const storeList = [
           "coordinates": [8.141362670355646, 6.132021146967696]
         },
         "properties": {
-          "name": "3. AEFUNAI",
+          "name": "58. AEFUNAI",
           "address": "Alex Ekwueme Federal University Ndufu Alike Ikwo, Ebony State: pro@funai.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -42,7 +42,7 @@ const storeList = [
           "coordinates": [5.328205995881825, 7.800923259994859]
         },
         "properties": {
-          "name": "4. FUOYE",
+          "name": "57. FUOYE",
           "address": "Federal University Oye-Ekiti, Ekiti State: +2348165396888, info@fuoye.edu.ng, support@fuoye.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -54,7 +54,7 @@ const storeList = [
           "coordinates": [5.139765626175929, 7.307254828782817]
         },
         "properties": {
-          "name": "5. FUTA",
+          "name": "56. FUTA",
           "address": "Federal University of Technology Akure, Ondo State: +2349058889737, svg@futa.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -66,7 +66,7 @@ const storeList = [
           "coordinates": [6.546312668510923, 9.583920886931418]
         },
         "properties": {
-          "name": "6. FUTMINNA",
+          "name": "55. FUTMINNA",
           "address": "Federal University of Technology Minna, Niger State: +2347035862582, registrar@futminna.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -78,7 +78,7 @@ const storeList = [
           "coordinates": [6.986148097336191, 5.3929891738112525]
         },
         "properties": {
-          "name": "7. FUTO",
+          "name": "54. FUTO",
           "address": "Federal University of Technology Owerri, Imo State: akajiaku.chukwuocha@futo.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -90,7 +90,7 @@ const storeList = [
           "coordinates": [12.160935197352458, 10.619379164739057]
         },
         "properties": {
-          "name": "8. NAUB",
+          "name": "53. NAUB",
           "address": "Nigerian Army University Biu, Borno State: +2348119719180, info@naub.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -102,7 +102,7 @@ const storeList = [
           "coordinates": [7.119840353155169, 6.246168154489915]
         },
         "properties": {
-          "name": "9. UNIZIK",
+          "name": "52. UNIZIK",
           "address": "Nnamdi Azikwe University Akwa, Anambra State: environmentalsciences@fac.unizik.edu.ng, info@unizik.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -114,7 +114,7 @@ const storeList = [
           "coordinates": [4.522164368251017, 7.498667846777126]
         },
         "properties": {
-          "name": "10. OAU",
+          "name": "51. OAU",
           "address": "Obafemi Awolowo University Ile-Ife, Osun State: +2348108287293, jidekufoniyi@yahoo.com, info@oauife.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -126,7 +126,7 @@ const storeList = [
           "coordinates": [5.60976336175835, 6.401722407983246]
         },
         "properties": {
-          "name": "11. UNIBEN",
+          "name": "50. UNIBEN",
           "address": "11. University of Benin Benin-City, Edo State: +2348010030050, registrar@uniben.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -138,7 +138,7 @@ const storeList = [
           "coordinates": [3.3900201619907095, 6.516113602370875]
         },
         "properties": {
-          "name": "12. UNILAG",
+          "name": 49. UNILAG",
           "address": "University of Lagos Akoka, Lagos State: +23412802439, ahamid-mosaku@unilag.edu.ng, oabiodun@unilag.edu.ng, communicationunit@unilag.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -150,7 +150,7 @@ const storeList = [
           "coordinates": [4.671190910833736, 8.479795871131813]
         },
         "properties": {
-          "name": "13.  UNILORIN",
+          "name": "48.  UNILORIN",
           "address": "University of Ilorin Ilorin, Kwara State: +2348108483222, +2348072000013, registrar@unilorin.edu.ng, talk2vcoffice@unilorin.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -162,7 +162,7 @@ const storeList = [
           "coordinates": [7.408202466647035, 6.8646576816375084]
         },
         "properties": {
-          "name": "14. UNN",
+          "name": "47. UNN",
           "address": "University of Nigeria Nsukka, Enugu State: anthony.okonta@unn.edu.ng, chris.igbokwe@unn.edu.ng, paul.oranu@unn.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -174,7 +174,7 @@ const storeList = [
           "coordinates": [7.919808810826616, 5.041014168447615]
         },
         "properties": {
-          "name": "15. UNIUYO",
+          "name": "46. UNIUYO",
           "address": "University of Uyo Uyo, Akwa-Ibom State: +2348146129875, +2347017747407, registrar@uniuyo.edu.ng",
           "phone": "+2348105596815"          
         }
@@ -186,7 +186,7 @@ const storeList = [
           "coordinates": [8.34083406849949, 4.952652638361764]
         },
         "properties": {
-          "name": "16. UNICAL",
+          "name": "45. UNICAL",
           "address": "University of Calabar Calabar, Cross–River State: +23483626190, +2348126305234, +2348178465080, support@myunical.edu.ng",
           "phone": "+2348105596815"          
         }
