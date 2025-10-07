@@ -6,8 +6,8 @@ const storeList = [
           "coordinates": [9.79452848217292, 10.280462235322235]
         },
         "properties": {
-          "name": "60. ATBU",
-          "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
+          "name": "63. LCU",
+          "address": "Lead City University,Ibadan, Oyo State: +2347084898634, +2348180714594, +234707543500",
           "phone": "+2348105596815"          
         }
       },
@@ -18,8 +18,8 @@ const storeList = [
           "coordinates": [9.79452848217292, 10.280462235322235]
         },
         "properties": {
-          "name": "60. ATBU",
-          "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
+          "name": "62. ACU",
+          "address": "Ajayi Crowther University Oyo, Oyo State: +2348145920637",
           "phone": "+2348105596815"          
         }
       },
@@ -30,8 +30,8 @@ const storeList = [
           "coordinates": [9.79452848217292, 10.280462235322235]
         },
         "properties": {
-          "name": "60. ATBU",
-          "address": "Abubakar Tafawa Balewa University Bauchi, Bauchi State: +2347084898634, +2348180714594, +234707543500",
+          "name": "61. LASU",
+          "address": "Lagos State University, Ojo, Lagos State: +2348151044243, +2348159109065",
           "phone": "+2348105596815"          
         }
       },
